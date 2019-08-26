@@ -1,0 +1,11 @@
+{
+  "whitelistedNonPeerDependencies": [
+    "dragula"
+  ],
+  "deleteDestPath": false,
+  "lib": {
+    "umdModuleIds": {
+      "dragula": "dragula"
+    }
+  }
+}
