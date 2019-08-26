@@ -77,6 +77,7 @@
     "tsickle": "^0.30.0",
     "tslib": "^1.9.0",
     "tslint": "~5.10.0",
+    "typescript": "2.8.4",
     "zone.js": "^0.8.26"
   },
   "main": "./dist/bundles/ng2-dragula.umd.js",
